@@ -1,0 +1,4 @@
+[28-Feb-2026 10:17:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function exec() in /home/namipixe/public_html/namikahwin-public/setup.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/namipixe/public_html/namikahwin-public/setup.php on line 24
